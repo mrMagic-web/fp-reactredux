@@ -14,7 +14,7 @@
     padding: 15px;
     flex: 1 1 250px;
     text-align: center
-}
-.product-single:hover {
-    background-color: #fafafa;
+    &:hover {
+        background-color: #fafafa;
+    }
 }
